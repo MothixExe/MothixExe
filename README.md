@@ -148,10 +148,6 @@
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MothixExe&theme=tokyonight" alt="Statistics of languages ​​in repositories" width="49.7%" height="auto"></a>
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MothixExe&theme=tokyonight" alt="Profile statistics" width="49.7%" height="auto"></a>
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MothixExe&theme=tokyonight" alt="Data on commits per day" width="49.7%" height="auto"></a>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MothixExe&langs_count=20&theme=tokyonight&hide_progress=true&hide_border=true" alt="Top Languages" width="49.7%" height="auto"></a>
-<a><img src="https://github-readme-stats.vercel.app/api?username=MothixExe&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&hide_border=true" alt="Tisma's stats" width="49.7%" height="auto"></a>
-<a><img src="https://github-readme-stats.vercel.app/api/wakatime?username=MothixExe" alt="Tisma's WakaTime stats" width="100%" height="49.7%"></a>
-
 <!--
 ### 🎧 Spotify Playing
 
